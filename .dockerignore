@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+*.db
+*.sqlite
+.env
+.env.*
+backend_start.*.log
+codex_backend.*.log
+purchase_backend_*.log
+uvicorn_*.log
